@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="market data" max_length="40" name="x_122670_marketing_market_data" type="collection">
+        <element attributes="Start date=true,End date=true,import_attribute_name=Name,Sponsored by=true,Budget=true,City=true,edge_encryption_enabled=true" label="Name,City,Start date,End date,Budget,Sponsored by" max_length="62" name="u_name_city_st_t_sponsored_by" type="string"/>
+    </element>
+</database>
